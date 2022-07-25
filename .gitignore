@@ -29,3 +29,6 @@
 /config/master.key
 
 /.idea
+
+.env
+coverage
